@@ -328,7 +328,7 @@
      <string name="light_snow" />
      <string name="lock_screen_date">"d MMMM yyyy
 EEEE"</string>
-     <string name="lockscreen_access_pattern_cell_added">Сотовая добавлена</string>
+     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
      <string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
      <string name="lockscreen_access_pattern_start">Шаблон начат</string>
@@ -341,7 +341,7 @@ EEEE"</string>
      <string name="lockscreen_pattern_wrong">Попробовать снова</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
      <string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
-     <string name="lockscreen_transport_play_description">Кнопка Играть</string>
+     <string name="lockscreen_transport_play_description">Кнопка играть</string>
      <string name="lockscreen_transport_prev_description">Кнопка предыдущий трек</string>
      <string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту</string>
      <string name="login_website_in_case_forget_password">Посетите http://i.xiaomi.com для сброса пароля</string>
@@ -457,6 +457,21 @@ EEEE"</string>
      <string name="stopping_the_heat" />
      <string name="summer_begins" />
      <string name="summer_solstice" />
+	 <string name="sync_data_call_log">журнал вызовов</string>
+     <string name="sync_data_cloud_album">облачные альбомы</string>
+     <string name="sync_data_contact">контакты</string>
+     <string name="sync_data_loading">Получение информации…</string>
+     <string name="sync_data_merge_warning_cancel">Отмена</string>
+     <string name="sync_data_merge_warning_desc">Локальные данные \"%s\" будут объединены с облачными данными. Будьте осторожны! Продолжить?</string>
+     <string name="sync_data_merge_warning_ok">OK</string>
+     <string name="sync_data_merge_warning_title">Внимание</string>
+     <string name="sync_data_mms">сообщения</string>
+     <string name="sync_data_msg_seperate">, </string>
+     <string name="sync_data_notes">заметки</string>
+     <string name="sync_data_recover_warning_cancel">Отмена</string>
+     <string name="sync_data_recover_warning_desc">Данные \"%s\" будут восстановлены из облака. Будьте осторожны! Продолжить?</string>
+     <string name="sync_data_recover_warning_ok">OK</string>
+     <string name="sync_data_recover_warning_title">Внимание</string>
      <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
      <string name="teachers_day" />
      <string name="text_copied">Текст скопирован</string>
